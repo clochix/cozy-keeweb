@@ -1,0 +1,12 @@
+{
+  "name": "cozy-keeweb",
+  "version": "0.0.1",
+  "description": "Porting keeweb to CozyCloud",
+  "cozy-type": "static",
+  "cozy-displayName": "keeweb",
+  "cozy-permissions": {
+    "keestore": {
+      "description": "Where your keeweb data are stored"
+    }
+  }
+}
